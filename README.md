@@ -1,10 +1,10 @@
 ## Dev em busca de redenção
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=HugoSants&show_icons=true&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=HugoSants&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoSants&size_weight=0.5&count_weight=0.5&theme=radical" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoSants&size_weight=0.5&count_weight=0.5&theme=dark" /> 
 </a>
 
 <div style="display: inline_block"><br>
