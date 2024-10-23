@@ -4,7 +4,7 @@
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=HugoSants&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoSants&layout=compact&theme=radical" /> 
+
 </a>
 
 <div style="display: inline_block"><br>
