@@ -11,16 +11,20 @@
   
   <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mysql,php,laravel,flutter,c" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,cs,python,php,mysql,nodejs,express,laravel" />
+  </a>
+
+  ##   
+
+  <p align>
+  <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=vscode,docker,bash,git"/>
   </a>
 </p>
-
+</p>
 </div>
-
 <div style="display: inline_block"><br>
-
 </div>
 
-  ##
 
   
