@@ -8,7 +8,7 @@ Atualmente, estou me aprofundando em JavaScript, Node.js, SQL, APIs e outras tec
 ##
 <table>
  <tr>
-  <td valign="top" width="40%">
+  <td valign="top" width="12%">
 
 ### Linguagens
 
@@ -20,17 +20,17 @@ Atualmente, estou me aprofundando em JavaScript, Node.js, SQL, APIs e outras tec
 
 </td>
 
-<td valign="top" width="33%">
-
+<td valign="top" width="12%">
+ 
 ### Bibliotecas
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,laravel" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,npm,laravel" />
   </a>
 </p>
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="12%">
 
 ### Banco de Dados e Ferramentas
 <p align="center">
@@ -52,7 +52,7 @@ Atualmente, estou me aprofundando em JavaScript, Node.js, SQL, APIs e outras tec
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoSants&layout=compact&theme=synthwave" /> 
 </a>
 
-<h2>Entre em contato</h2>
+<h2>🌐 Entre em contato</h2>
 <a href="https://www.linkedin.com/in/hugo-rocha-dos-santos-105a65341/"> <img alt="html logo" src="https://img.shields.io/badge/Linkedin-1572B6.svg?style=for-the-badge&linkedin=css3&logoColor=white"> </a>
 <a href="mailto:hugo.santos202br@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
