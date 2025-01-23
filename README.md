@@ -43,8 +43,6 @@ Atualmente, estou me aprofundando em JavaScript, Node.js, SQL, APIs e outras tec
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=HugoSants&show_icons=true&theme=synthwave" />
 </a>
@@ -54,6 +52,7 @@ Atualmente, estou me aprofundando em JavaScript, Node.js, SQL, APIs e outras tec
 
 <h2>🌐 Entre em contato</h2>
 <a href="https://www.linkedin.com/in/hugo-rocha-dos-santos-105a65341/"> <img alt="html logo" src="https://img.shields.io/badge/Linkedin-1572B6.svg?style=for-the-badge&linkedin=css3&logoColor=white"> </a>
-<a href="mailto:hugo.santos202br@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="mailto:hugo.santos202br@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
+<a href="mailto:hugo.santos202br@gmail.com"><img img src="https://img.shields.io/badge/Portifolio-610F7F?style=for-the-badge&logo=github&logoColor=github" alt="portifolio"/></a>
 
   
