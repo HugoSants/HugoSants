@@ -44,7 +44,7 @@ Atualmente, estou me aprofundando em JavaScript, Node.js, SQL, APIs e outras tec
 </table>
 
 
-<h2>🌐 Entre em contato</h2>
+<h2>🌐 Onde me encontrar</h2>
 <a href="https://www.linkedin.com/in/hugo-rocha-dos-santos-105a65341/"> <img alt="html logo" src="https://img.shields.io/badge/Linkedin-1572B6.svg?style=for-the-badge&linkedin=css3&logoColor=white"> </a>
 <a href="mailto:hugo.santos202br@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
 <a href="mailto:hugo.santos202br@gmail.com"><img img src="https://img.shields.io/badge/Portifolio-610F7F?style=for-the-badge&logo=github&logoColor=github" alt="portifolio"/></a>
