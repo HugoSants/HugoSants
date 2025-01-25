@@ -43,12 +43,6 @@ Atualmente, estou me aprofundando em JavaScript, Node.js, SQL, APIs e outras tec
 </tr>
 </table>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=HugoSants&show_icons=true&theme=synthwave" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoSants&layout=compact&theme=synthwave" /> 
-</a>
 
 <h2>🌐 Entre em contato</h2>
 <a href="https://www.linkedin.com/in/hugo-rocha-dos-santos-105a65341/"> <img alt="html logo" src="https://img.shields.io/badge/Linkedin-1572B6.svg?style=for-the-badge&linkedin=css3&logoColor=white"> </a>
