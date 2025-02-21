@@ -25,7 +25,7 @@ Atualmente, estou me aprofundando em JavaScript, Node.js, SQL, APIs e outras tec
 ### Bibliotecas
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,flutter,django" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,flutter,nest" />
   </a>
 </p>
 
