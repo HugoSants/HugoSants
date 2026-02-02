@@ -23,7 +23,7 @@ Atualmente, estou me aprofundando em JavaScript, Node.js, SQL, APIs e outras tec
 ### Bibliotecas
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,nest,prisma" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,angular,prisma" />
   </a>
 </p>
 
